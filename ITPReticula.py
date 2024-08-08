@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-
+##Ejemplo funcional
 # Configuración de opciones para el navegador
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")  # Abre el navegador en pantalla completa
